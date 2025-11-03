@@ -4,3 +4,6 @@
 [submodule "fuelof-sol-token"]
 	path = fuelof-sol-token
 	url = https://github.com/rahulpatle-sol/fuelof-sol-token.git
+[submodule "chilli-"]
+	path = chilli-
+	url = https://github.com/rahulpatle-sol/chilli-.git
